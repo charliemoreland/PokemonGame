@@ -1,0 +1,4 @@
+This was a semester long project for a class where I created a terminal pokemon game in c and then transferred it to c++ and took advantage of ncurses for UX.
+The game has different types of trainers and different types of pokemon all of there stats are parsed in through csv files. The movement priority of all charactrers
+on the map utilizes a priority queue that is implemented with the help of a heap. You are able to to move in 8 different directions different types of terraine have different movement cost.
+There are trainer battles as well as wild pokemon batles that randomly happen when walking though tall grass. 
